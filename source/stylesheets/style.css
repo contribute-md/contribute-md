@@ -65,8 +65,8 @@ body {
 	color:#fff;
 }
 
-::selection 	 	{background: rgb(255,255,0);}
-::-moz-selection 	{background: rgb(255,255,0);}
+::selection 	 	{background: rgb(105,125,253);}
+::-moz-selection 	{background: rgb(105,125,253);}
 img::selection 		{background: transparent;}
 img::-moz-selection {background: transparent;}
 
